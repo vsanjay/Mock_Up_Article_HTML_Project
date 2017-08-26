@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1.I have learnt about thematic break, how to strike a set of words with <s> tag and how to use superscript tag with <sup>.
+
+2.Everything for media felt it easy.
+
+3.None one them was any difficult as i have access to documentation.
+
+4.Just searched in google to see how to do a particular task in html5.In that way, learnt these new skills from stack overflow and w3schools.
